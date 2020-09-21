@@ -68,6 +68,7 @@
 <summary>Подсказка для решения первой задачи...</summary>
 ```!0```
 </details> 
+
 #### JavaScript
 * http://play.elevatorsaga.com/ (en) – Программируем поведелие лифтов внутри симуляции
 #### Computer Science
